@@ -1,0 +1,34 @@
+form {
+  background: #b9c1c8;
+  padding: 1.5em;
+  border-radius: 1em;
+  display: grid;
+  justify-items: end;
+  box-shadow: 8px 6px 8px;
+}
+
+label {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  padding: 10px;
+}
+
+input {
+  margin: 15px;
+}
+
+section {
+  margin-top: 16px;
+}
+
+button {
+  justify-self: normal;
+  margin-top: 20px;
+}
+
+span {
+  display: block;
+  text-align: end;
+  font-size: 10px;
+  margin-right: 19px;
+  color: red;
+}
